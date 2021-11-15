@@ -1,0 +1,11 @@
+นักศึกษา,รายวิชา,คะแนน(100)
+นาย ก,Fundamental of Computer Programming,85
+นาย ข,Fundamental of Computer Programming,43 
+นาย ค,Fundamental of Computer Programming,76  
+นางสาว ง,Fundamental of Computer Programming,12 
+นางสาว จ,Fundamental of Computer Programming,54 
+นาย ก,Workshop,97
+นาย ข,Workshop,38
+นาย ค,Workshop,66 
+นางสาว ง,Workshop,42
+นางสาว จ,Workshop,77
