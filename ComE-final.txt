@@ -1,4 +1,4 @@
-นักศึกษา,รายวิชา,คะแนน(100)
+นักศึกษา,รายวิชา,score
 นาย ก,Fundamental of Computer Programming,85
 นาย ข,Fundamental of Computer Programming,43 
 นาย ค,Fundamental of Computer Programming,76  
